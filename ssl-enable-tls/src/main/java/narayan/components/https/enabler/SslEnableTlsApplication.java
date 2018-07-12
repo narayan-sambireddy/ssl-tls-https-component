@@ -9,4 +9,5 @@ public class SslEnableTlsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SslEnableTlsApplication.class, args);
 	}
+
 }
